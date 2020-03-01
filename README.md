@@ -10,4 +10,4 @@ Dans ce memoire, nous utilisons un ordinateur portable avec:
  - Language: PySpark
  - IDE: Jupyter Notebook 
 
-Les fichiers .ipynb doivent etre ouverts et executés par l'orde de l'indice mentionné dans le nom de chaque fichier 
+**Les fichiers .ipynb doivent etre ouverts et executés par l'ordre de l'indice mentionné dans le nom de chaque fichier**
