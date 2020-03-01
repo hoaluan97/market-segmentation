@@ -1,0 +1,5 @@
+Bonjour John
+Salut Thomas
+Comment vas tu John?
+Ça va et toi ?
+Ça va bien merci.
